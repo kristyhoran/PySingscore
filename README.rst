@@ -1,6 +1,7 @@
 .. image:: https://travis-ci.org/kristyhoran/PySingscore.svg?branch=master
     :target: https://travis-ci.org/kristyhoran/PySingscore
-    
+.. image:: https://img.shields.io/badge/python-%3E%3D3.5-blue.svg
+
 =========
 singscore
 =========
