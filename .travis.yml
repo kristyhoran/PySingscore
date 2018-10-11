@@ -6,7 +6,7 @@ sudo: false
 install:
   - python3 setup.py install
  
- script:
+script:
   - python3 test.py
   
  
