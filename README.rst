@@ -1,5 +1,6 @@
-[![Build Status](https://travis-ci.org/kristyhoran/PySingscore.svg?branch=master)](https://travis-ci.org/kristyhoran/PySingscore)
-
+.. image:: https://travis-ci.org/kristyhoran/PySingscore.svg?branch=master
+    :target: https://travis-ci.org/kristyhoran/PySingscore
+    
 =========
 singscore
 =========
